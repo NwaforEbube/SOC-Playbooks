@@ -1,7 +1,4 @@
-![License](https://img.shields.io/badge/License-MIT-green.svg)  
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)  
-![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)  
-![Security](https://img.shields.io/badge/Security-Focused-blue.svg)
+
 
 # SOC Playbooks
 
